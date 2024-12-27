@@ -1,0 +1,118 @@
+1. Google Sign In,
+2. 17 Vitals to be added and there backend needs to be modified
+3. Pages for all the 17 vitals 
+4. AI needs data, so we'll use matehmatical statistical models
+
+
+client ID for web : 818195435839-13ia3v0aolnogncdnlniqbpqfrq77evf.apps.googleusercontent.com
+android : 818195435839-raue7rr39c16lrgk1ai8sb2onaqvr6l3.apps.googleusercontent.com
+
+
+
+
+Reiteration of Updates needed....
+
+1. Voice to Text
+2. Risk Score Popup (based on 17 vitals) 
+3. Duolingo type popups
+4. All the 17 categories for which there would be a landing page
+5. a. Deep Engagement, Ease of administration
+    b. More Reliance
+    Get blood sugar, body temperature, pulse rate all from the app
+6. Website and App can operate based on single backend
+7. Possibility of website to be bilingual
+8. Give statistical data for model training and give data to gpt for testing. 
+
+Seventeen vitals : 
+1. Blood Glucose Levels - Done - Blood Sugar
+2. HbA1c (Glycated Hemoglobin)  - Done
+3. Blood Pressure  - Done
+4. BMI (Body Mass Index)  - Done
+5. Stress level: Deep sleep Or Fragmented -Done
+6. Anxiety level - Done
+7. Moods & swings - Done
+8. Waist Circumference - Body Fat Percentage? - Change the evaulation. - Normal, moderate or high
+9. Physical activity: Active Or Sedentary lifestyle - Done 
+10. Sleep Patterns - sleep duration (8 -> 2 4 sleep 2) (Fractured Sleep Patern) ( sleep patern available? if yes then entry if no ) - Done
+11. Heart Rate Variability (HRV) - Integrate in same ecg rythm page. (use google to derrive description) - Skip (Integrate it in ecg page)
+12. Pulse rate  - Done
+13. Body Temprature  - Done
+14. ECG rhythm strip - (photo extraction) (Improvised, Need to code the backend for the ecg extraction)
+15. Cholesterol level  - Done
+16. Body weight & weight history  - Done
+17. Daily calories intake - Done
+18. Exercise Page to record exercises  (Priority Task) - Relative Calroies Burnt in the activites and Display a total calorie burn per day.
+
+
+Bring all to homepage, with categories
+
+Towards the end look for watch sync with some online app, to activate the sleep functionality.
+
+
+1. Bhashani, is Government MultiLingual, 22 vernacular languages (Explore Text to Speech, Atleaset 2 languages for the app) -> Got Models link from Yejoor Sir, could be integrated
+2. IF the vitals are already somewhere, so it should be able to integrate  (Google Health API like, Google FIT)
+
+
+
+/points
+
+1. Horizontal Scroll
+2. Symbol for better visuals of the screens
+3. Scientific execution of every subheading. 
+4. Designings of Screens
+5. Tutorial at the end of the app
+
+
+
+1. Basic desing with Risk Score top 
+2. All are in circlular progress bar, and at the bottom is a graph for summary
+3. Risk score circle at top, but graph gards for more details 
+
+
+1. Blood Glucose Levels 
+2. HbA1c (Glycated Hemoglobin)  
+3. Blood Pressure  
+4. BMI (Body Mass Index)  
+5. Stress level
+6. Anxiety level 
+7. Moods & swings
+8. Waist Circumference -
+9. Physical activity:
+10. Sleep Patterns 
+11. Heart Rate Variability (HRV) 
+12. Pulse rate
+13. Body Temprature
+14. ECG rhythm strip 
+15. Cholesterol level  
+16. Body weight & weight history  
+17. Daily calories intake
+18. Exercise Page
+
+
+
+Here’s how you can categorize these 18 items into relevant sections:
+
+1. Metabolic Health
+Blood Glucose Levels
+HbA1c (Glycated Hemoglobin)
+Cholesterol Level
+Daily Calories Intake
+2. Cardiovascular Health
+Blood Pressure
+Heart Rate Variability (HRV)
+Pulse Rate
+ECG Rhythm Strip
+3. Body Composition
+BMI (Body Mass Index)
+Waist Circumference
+Body Weight & Weight History
+4. Mental and Emotional Well-being
+Stress Level
+Anxiety Level
+Moods & Swings
+5. Physical Activity and Lifestyle
+Physical Activity
+Exercise Page
+6. Other Health Metrics
+Sleep Patterns
+Body Temperature
